@@ -1,8 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"/>
+</div>
 
-![](https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaverioNapolitano"/>
+</div>
 
-![](https://komarev.com/ghpvc/?username=SaverioNapolitano)
 
 ---
 
