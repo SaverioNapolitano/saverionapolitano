@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/developer-dev-baruch-ES9cAJlcxblRESzOH1"/>
+  
 </div>
 
 <div align="center">
