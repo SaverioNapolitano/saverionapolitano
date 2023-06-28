@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"/>
+  <img src="https://giphy.com/gifs/tech-system-alliance-YYW0hHizzIOrlhimPG"/>
 </div>
 
 <div align="center">
