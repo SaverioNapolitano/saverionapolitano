@@ -39,50 +39,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaverioNapolitano&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<details>
-<summary>Languages I've seen up to now in my studies (chronological ranking):</summary>
-
-| Rank |  Languages |
-|-----:|------------|
-|     1|  C         |
-|     2|  Assembly  |
-|     3|  Shell     |
-|     4|  Java      |
-|     5|  Python    |
-|     6|  SQL       |
-
-</details>
-
-<details>
-<summary>Languages I plan to learn on my own (rank can change):</summary>
-
-
-| Rank |  Languages |
-|-----:|------------|
-|     1|  Swift     |
-|     2|  Kotlin    |
-|     3|  Dart      |
-|     4|  HTML      |
-|     5|  CSS       |
-
-</details>
-
-<details>
-<summary>Software I've worked with (chronological order):</summary>
-
-
-| Rank |  Softwares          |
-|-----:|---------------------|
-|     1|  Visual Studio      |
-|     2|  Visual Studio Code |
-|     3|  IntelliJ           |
-|     4|  PyCharm            |
-|     5|  Azure Data Studio  |
-
-</details>
-
-
   
 
 <!--
