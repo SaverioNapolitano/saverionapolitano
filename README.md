@@ -14,7 +14,7 @@ Languages I've seen up to now in my studies:
 * Python
 * SQL
 
-Languages I plan to learn by own:
+Languages I plan to learn on my own:
 * Swift
 * Kotlin
 * Dart
