@@ -6,20 +6,36 @@
 - 🌱 I’m currently studying Computer Engineering at [UNIMORE](https://international.unimore.it)
 - 📫 How to reach me: saverio.napolitano@outlook.com
 
-Languages I've seen up to now in my studies:
-* C
-* Assembly
-* Shell
-* Java
-* Python
-* SQL
 
-Languages I plan to learn on my own:
-* Swift
-* Kotlin
-* Dart
-* HTML
-* CSS
+
+<details>
+<summary>Languages I've seen up to now in my studies (chronological ranking):</summary>
+
+| Rank |  Languages |
+|-----:|------------|
+|     1|  C         |
+|     2|  Assembly  |
+|     3|  Shell     |
+|     4|  Java      |
+|     5|  Python    |
+|     6|  SQL       |
+
+</details>
+
+<details>
+<summary>Languages I plan to learn on my own (rank can change):</summary>
+
+
+| Rank |  Languages |
+|-----:|------------|
+|     1|  Swift     |
+|     2|  Kotlin    |
+|     3|  Dart      |
+|     4|  HTML      |
+|     5|  CSS       |
+
+</details>
+
   
 
 <!--
