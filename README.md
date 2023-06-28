@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+![](https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif)
+
 ![](https://komarev.com/ghpvc/?username=SaverioNapolitano)
+
+---
 
 ### 👨‍💻 About me:
 - 🌱 I’m currently studying Computer Engineering at [UNIMORE](https://international.unimore.it)
