@@ -39,7 +39,7 @@
 
 ### :fire: My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaverioNapolitano&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaverioNapolitano&show_icons=true&count_private=true&theme=vision-friendly-dark)  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaverioNapolitano&theme=dark&background=000000)](https://git.io/streak-stats)
 
