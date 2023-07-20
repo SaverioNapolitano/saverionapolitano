@@ -39,11 +39,18 @@
 
 ### :fire: My Stats :
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaverioNapolitano&show_icons=true&count_private=true)  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaverioNapolitano&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaverioNapolitano&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+![GitHub metrics](https://metrics.lecoq.io/SaverioNapolitano)
+
+
+### 🏆 My trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SaverioNapolitano)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **SaverioNapolitano/saverionapolitano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
