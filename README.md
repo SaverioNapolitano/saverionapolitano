@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About me:
-- 🌱 I’m currently studying Computer Engineering at [UNIMORE](https://international.unimore.it)
+- 🌱 I’m currently studying Artificial Intelligence Engineering at [UNIMORE](https://international.unimore.it)
 - 📫 How to reach me: saverio.napolitano@outlook.com
 
 ---
